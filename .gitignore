@@ -1,0 +1,6 @@
+# windows thumbnail db
+*.db
+
+# java outputs
+*.class
+*.jar

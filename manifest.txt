@@ -1,0 +1,1 @@
+Main-class: view.editor.BeatBuilder
